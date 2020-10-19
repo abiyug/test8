@@ -1,6 +1,6 @@
 #' @title Add plus 2 to a number
 #'
-#' @description This functoin adds 2 to any number provided.
+#' @description This functoin adds two to any number provided.
 #'
 #' @param x A number (integer)
 #' @return a number object
